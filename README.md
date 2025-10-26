@@ -1,3 +1,5 @@
+# Release KYC-FORM 1.2.6 26/10/2025 - KYC-10 - add lang to url
+
 # Release KYC-FORM 1.2.5 24/10/2025 - KYC-10
 
 # Release KYC-FORM 1.2.4 07/10/2025 - on create profile add field type
