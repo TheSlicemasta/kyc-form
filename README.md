@@ -1,3 +1,5 @@
+# Release KYC-FORM 1.2.7 29/10/2025 - KYC-10, 11
+
 # Release KYC-FORM 1.2.6 26/10/2025 - KYC-10 - add lang to url
 
 # Release KYC-FORM 1.2.5 24/10/2025 - KYC-10
