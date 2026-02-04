@@ -1,3 +1,5 @@
+# Release KYC-FORM 1.2.11 04/02/2026 - add pl locale
+
 # Release KYC-FORM 1.2.10 01/02/2026 - add ua locale, fix date label placeholder
 
 # Release KYC-FORM 1.2.9 14/11/2025 - video modal add change camera btn
